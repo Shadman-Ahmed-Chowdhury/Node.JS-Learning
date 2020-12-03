@@ -1,0 +1,17 @@
+{
+  "name": "node.js-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shadman Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "uuid-random": "^1.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
